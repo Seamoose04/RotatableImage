@@ -2,7 +2,9 @@
     "name": "RotatableImage",
     "version": "0.0.0",
     "files": [
-        "main.ts"
+        "main.ts",
+        "util.ts",
+        "rotatableImage.ts"
     ],
     "supportedTargets": [
         "arcade"
