@@ -5,7 +5,6 @@
 //% color=#0080ff icon="↻"
 namespace Rotatable {
     //% block
-    //% img.defl="screen_image_picker"
     export function createRotatableImage(img: Image): RotatableImage {
         return new RotatableImage(img);
     }
